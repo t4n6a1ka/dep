@@ -45,21 +45,21 @@ The `testcase.json` file has the following format:
     {
       "commands": [
         ["init"],
-        ["ensure", "github.com/sdboyer/deptesttres"]
+        ["ensure", "github.com/t4n6a1ka/deptesttres"]
       ],
       "gopath-initial": {
-        "github.com/sdboyer/deptest": "v0.8.0",
-        "github.com/sdboyer/deptestdos": "a0196baa11ea047dd65037287451d36b861b00ea"
+        "github.com/t4n6a1ka/deptest": "v1.0.0",
+        "github.com/t4n6a1ka/deptestdos": ""
       },
       "vendor-initial": {
-        "github.com/sdboyer/deptesttres": "v2.1.0",
-        "github.com/sdboyer/deptestquatro": "cf596baa11ea047ddf8797287451d36b861bab45"
+        "github.com/t4n6a1ka/deptesttres": "v2.1.0",
+        
       },
       "vendor-final": [
-        "github.com/sdboyer/deptest",
-        "github.com/sdboyer/deptestdos",
-        "github.com/sdboyer/deptesttres",
-        "github.com/sdboyer/deptestquatro"
+        "github.com/t4n6a1ka/deptest",
+        "github.com/t4n6a1ka/deptestdos",
+        "github.com/t4n6a1ka/deptesttres",
+        
       ],
       "error-expected": "something went wrong"
     }
