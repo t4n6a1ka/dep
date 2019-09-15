@@ -4,6 +4,6 @@
 
 package main
 
-import _ "github.com/carolynvs/deptest-subpkg/subby"
+import _ "https://github.com/t4n6a1ka/deptest-subpkg/blob/master/supkg.go"
 
 func main() {}
