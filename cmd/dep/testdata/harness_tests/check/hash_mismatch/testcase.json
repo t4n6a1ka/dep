@@ -4,6 +4,6 @@
   ],
   "should-fail": true,
   "vendor-final": [
-    "github.com/sdboyer/deptest"
+    "github.com/t4n6a1ka/deptest"
   ]
 }
