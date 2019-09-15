@@ -16,11 +16,11 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/golang/dep"
-	"github.com/golang/dep/gps"
-	"github.com/golang/dep/gps/paths"
-	"github.com/golang/dep/gps/pkgtree"
-	"github.com/golang/dep/gps/verify"
+	"github.com/t4n6a1ka/dep"
+	"github.com/t4n6a1ka/dep/gps"
+	"github.com/t4n6a1ka/dep/gps/paths"
+	"github.com/t4n6a1ka/dep/gps/pkgtree"
+	"github.com/t4n6a1ka/dep/gps/verify"
 	"github.com/pkg/errors"
 )
 
