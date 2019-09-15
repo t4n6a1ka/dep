@@ -10,13 +10,13 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/golang/dep"
-	"github.com/golang/dep/gps"
-	"github.com/golang/dep/internal/test"
+	"github.com/t4n6a1ka/dep"
+	"github.com/t4n6a1ka/dep/gps"
+	"github.com/t4n6a1ka/dep/internal/test"
 )
 
-const testProject1 = "github.com/sdboyer/deptest"
-const testProject2 = "github.com/sdboyer/deptestdos"
+const testProject1 = "github.com/t4n6a1ka/deptest"
+const testProject2 = "github.com/t4n6a1ka/deptestdos"
 
 // NewTestContext creates a unique context with its own GOPATH for a single test.
 func NewTestContext(h *test.Helper) *dep.Ctx {
