@@ -5,9 +5,9 @@
 package main
 
 import (
-	_ "github.com/carolynvs/go-dep-test"
-	_ "github.com/sdboyer/deptest"
-	_ "github.com/sdboyer/deptestdos"
+	_ "github.com/t4n6a1ka/go-dep-test"
+	_ "github.com/t4n6a1ka/deptest"
+	_ "github.com/t4n6a1ka/deptestdos"
 )
 
 func main() {
