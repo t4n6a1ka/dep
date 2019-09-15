@@ -5,8 +5,8 @@
 package main
 
 import (
-	"github.com/sdboyer/deptest"
-	"github.com/sdboyer/deptestdos"
+	"github.com/t4n6a1ka/deptest"
+	"github.com/t4n6a1ka/deptestdos"
 )
 
 func main() {
