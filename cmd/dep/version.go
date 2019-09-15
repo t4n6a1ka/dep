@@ -8,7 +8,7 @@ import (
 	"flag"
 	"runtime"
 
-	"github.com/golang/dep"
+	"github.com/t4n6a1ka/dep"
 )
 
 var (
