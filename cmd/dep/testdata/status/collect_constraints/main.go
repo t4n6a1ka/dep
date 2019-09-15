@@ -5,10 +5,10 @@
 package main
 
 import (
-	_ "github.com/boltdb/bolt"
-	_ "github.com/sdboyer/dep-test"
-	_ "github.com/sdboyer/deptest"
-	_ "github.com/sdboyer/deptestdos"
+	_ "github.com/t4n6a1ka/bolt"
+	_ "github.com/t4n6a1ka/dep-test"
+	_ "github.com/t4n6a1ka/deptest"
+	_ "github.com/t4n6a1ka/deptestdos"
 )
 
 type FooBar int
