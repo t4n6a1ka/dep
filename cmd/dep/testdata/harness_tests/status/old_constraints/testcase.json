@@ -5,8 +5,8 @@
   ],
   "error-expected": "",
   "vendor-final": [
-    "github.com/carolynvs/go-dep-test",
-    "github.com/sdboyer/deptest",
-    "github.com/sdboyer/deptestdos"
+    "github.com/t4n6a1ka/go-dep-test",
+    "github.com/t4n6a1ka/deptest",
+    "github.com/t4n6a1ka/deptestdos"
   ]
 }
