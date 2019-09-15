@@ -7,7 +7,7 @@ package main
 import (
 	"context"
 
-	"github.com/golang/dep/gps"
+	"github.com/t4n6a1ka/dep/gps"
 	"github.com/pkg/errors"
 )
 
