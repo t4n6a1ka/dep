@@ -17,9 +17,9 @@ import (
 	"text/tabwriter"
 	"text/template"
 
-	"github.com/golang/dep"
-	"github.com/golang/dep/gps"
-	"github.com/golang/dep/internal/test"
+	"github.com/t4n6a1ka/dep"
+	"github.com/t4n6a1ka/dep/gps"
+	"github.com/t4n6a1ka/dep/internal/test"
 	"github.com/pkg/errors"
 )
 
